@@ -1,0 +1,32 @@
+
+
+body{
+    background-color: rgb(209, 224, 224);
+}
+
+div{
+    text-align: center;
+    background-color: rgb(37, 215, 242);
+    color: rgb(236, 14, 84);
+    width:280px;
+    height: 250px;
+    margin-top: 80px;
+    margin-left: 600px;
+    border-radius: 10px;
+    border: 3px solid orange;
+}
+p{
+    color:rgb(8, 84, 97);
+}
+button{
+    background-color: grey;
+    border-radius: 5px;
+    border: 2px solid blanchedalmond;
+    height: 35px;
+}
+input{
+    border-radius: 5px;
+    border: 2px solid blanchedalmond;
+    width: auto;
+    height: 25px;
+}
